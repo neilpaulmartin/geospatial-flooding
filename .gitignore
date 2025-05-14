@@ -1,0 +1,4 @@
+geospatial-venv/
+.DS_Store
+data/
+data/weather
