@@ -2,3 +2,4 @@ geospatial-venv/
 .DS_Store
 data/
 data/weather
+.ruff_cache/
